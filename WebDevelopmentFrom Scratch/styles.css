@@ -1,0 +1,74 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:darksalmon;
+    color:maroon;
+    text-align:justify;
+    list-style-position: inside;
+background-image: url(https://img.freepik.com/free-vector/white-abstract-background-design_23-2148825582.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+}
+img{
+    width: 50%;
+    display: block;
+    border: solid 4px black;
+    padding: 4px;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+a{
+    color: black;
+}
+
+
+h3{
+    border: dashed rgb(128, 0, 23) 2px;
+}
+
+.favorite{
+color: maroon;
+font-style: oblique;
+font-size: large;
+text-align: center;
+font-variant:normal;
+}
+
+.cooking{
+font-size: 50px;
+color: black;
+text-align: center;
+text-decoration-line: underline;
+bottom: 10px;
+}
+
+iframe{
+    width: 50%;
+    display: block;
+    border: solid 3px black;
+    margin: auto;
+    padding: 3px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+.footer{
+    width: 100%;
+    font-size: small;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: whitesmoke;
+    bottom: 3px;
+    opacity: 35%;
+}
+
+.nav-item{
+    font-size: large;
+    color: black;
+}
+h1{
+    text-align: center;
+}
